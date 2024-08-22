@@ -83,8 +83,8 @@ body{
 
 .trilha_sonora{
     width: 100%;
-    background-color: pink ;
-    height: 200px;
+    background-image: linear-gradient(black, red);
+    height: 800px;
 }
 
 .menu a img{
